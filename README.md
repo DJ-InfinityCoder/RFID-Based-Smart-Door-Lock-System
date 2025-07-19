@@ -5,7 +5,7 @@ A security-enhancing RFID-based door lock system developed as part of our CSE pr
 ## 👨‍💻 Team Members
 
 - **Dilip Meghwal**
-- **Dilpreet Singh** (231210041)  
+- **Dilpreet Singh**
 
 ## 🧠 Problem Statement
 
